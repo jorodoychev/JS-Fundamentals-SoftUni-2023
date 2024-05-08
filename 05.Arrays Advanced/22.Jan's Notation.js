@@ -1,0 +1,5 @@
+function janNotation() {
+    //todo
+}
+
+janNotation()

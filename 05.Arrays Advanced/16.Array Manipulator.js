@@ -1,0 +1,5 @@
+function arrayManipulator() {
+    //todo
+}
+
+arrayManipulator()

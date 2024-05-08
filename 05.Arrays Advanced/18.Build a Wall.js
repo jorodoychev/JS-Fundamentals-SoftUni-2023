@@ -1,0 +1,5 @@
+function buildAWall() {
+    //todo
+}
+
+buildAWall()

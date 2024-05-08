@@ -1,0 +1,5 @@
+function bombNumbers() {
+//todo
+}
+
+bombNumbers()

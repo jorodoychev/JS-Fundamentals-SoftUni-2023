@@ -1,0 +1,5 @@
+function gladiatorInventory() {
+    //todo
+}
+
+gladiatorInventory()
